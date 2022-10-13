@@ -1,0 +1,34 @@
+{
+  "name": "newton-method",
+  "version": "1.0.0",
+  "description": "This is a simple package demonstrating the Newton Method for finding roots of a function.",
+  "main": "index.js",
+  "dependencies": {
+    "mathjs": "^11.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zo-Bro-23/writing-stats.git"
+  },
+  "keywords": [
+    "newton",
+    "method",
+    "math",
+    "derivative",
+    "roots",
+    "function"
+  ],
+  "author": "Zohan Subhash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zo-Bro-23/writing-stats/issues"
+  },
+  "homepage": "https://github.com/Zo-Bro-23/writing-stats#readme",
+  "publishConfig": {
+    "tag": "latest"
+  }
+}
