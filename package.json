@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zo-Bro-23/writing-stats.git"
+    "url": "git+https://github.com/Zo-Bro-23/newton-method.git"
   },
   "keywords": [
     "newton",
@@ -25,9 +25,9 @@
   "author": "Zohan Subhash",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Zo-Bro-23/writing-stats/issues"
+    "url": "https://github.com/Zo-Bro-23/newton-method/issues"
   },
-  "homepage": "https://github.com/Zo-Bro-23/writing-stats#readme",
+  "homepage": "https://github.com/Zo-Bro-23/newton-method#readme",
   "publishConfig": {
     "tag": "latest"
   }
