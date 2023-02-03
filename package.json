@@ -1,6 +1,6 @@
 {
   "name": "newton-method",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a simple package demonstrating the Newton Method for finding roots of a function.",
   "main": "index.js",
   "dependencies": {
